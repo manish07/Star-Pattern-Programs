@@ -1,0 +1,15 @@
+/Users/manishkumar/Downloads/Practice/StarPatterns/bin/Debug/net7.0/StarPatterns
+/Users/manishkumar/Downloads/Practice/StarPatterns/bin/Debug/net7.0/StarPatterns.deps.json
+/Users/manishkumar/Downloads/Practice/StarPatterns/bin/Debug/net7.0/StarPatterns.runtimeconfig.json
+/Users/manishkumar/Downloads/Practice/StarPatterns/bin/Debug/net7.0/StarPatterns.dll
+/Users/manishkumar/Downloads/Practice/StarPatterns/bin/Debug/net7.0/StarPatterns.pdb
+/Users/manishkumar/Downloads/Practice/StarPatterns/obj/Debug/net7.0/StarPatterns.csproj.AssemblyReference.cache
+/Users/manishkumar/Downloads/Practice/StarPatterns/obj/Debug/net7.0/StarPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manishkumar/Downloads/Practice/StarPatterns/obj/Debug/net7.0/StarPatterns.AssemblyInfoInputs.cache
+/Users/manishkumar/Downloads/Practice/StarPatterns/obj/Debug/net7.0/StarPatterns.AssemblyInfo.cs
+/Users/manishkumar/Downloads/Practice/StarPatterns/obj/Debug/net7.0/StarPatterns.csproj.CoreCompileInputs.cache
+/Users/manishkumar/Downloads/Practice/StarPatterns/obj/Debug/net7.0/StarPatterns.dll
+/Users/manishkumar/Downloads/Practice/StarPatterns/obj/Debug/net7.0/refint/StarPatterns.dll
+/Users/manishkumar/Downloads/Practice/StarPatterns/obj/Debug/net7.0/StarPatterns.pdb
+/Users/manishkumar/Downloads/Practice/StarPatterns/obj/Debug/net7.0/StarPatterns.genruntimeconfig.cache
+/Users/manishkumar/Downloads/Practice/StarPatterns/obj/Debug/net7.0/ref/StarPatterns.dll
